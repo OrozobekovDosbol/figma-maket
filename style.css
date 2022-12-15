@@ -82,6 +82,8 @@ hr {
 }
 .container-1 {
   display: flex;
+  border-bottom: 1px solid gray;
+  margin: 0px 30px;
 }
 .down-header {
   display: block;
@@ -106,6 +108,8 @@ hr {
   padding: 0 50px;
   text-align: center;
   margin-top: 70px;
+  border-bottom: 1px solid gray;
+  margin: 0 30px;
 }
 .content .box-1  {
   flex: 1 1 33.33%;
@@ -125,4 +129,9 @@ hr {
 .bokal {
   margin: 30px;
   width: 1200px;
+}
+.content-box-1 {
+  display: flex;
+  margin: 0 30px;
+  font-size: 12px;
 }
